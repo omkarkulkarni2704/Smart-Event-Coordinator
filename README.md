@@ -12,9 +12,8 @@ Solution: The ability to send custom notifications allows organizers to communic
 3. Event Updates: Keeping attendees informed about changes or updates can be challenging without an automated system.
 Solution: Automated notifications and updates ensure that attendees receive timely and relevant information.
 
-![image](https://github.com/user-attachments/assets/7fecf960-1999-4138-a16b-83cb4b6e20ec)
 
-Tech Stack Used
+Tech Stack Used - 
 
 Backend:
 1. Java 
