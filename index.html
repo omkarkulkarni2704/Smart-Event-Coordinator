@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Management</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="mt-5">Event Management System</h1>
+        <form id="eventForm">
+            <div class="form-group">
+                <label for="name">Event Name</label>
+                <input type="text" class="form-control" id="name" required>
+            </div>
+            <div class="form-group">
+                <label for="description">Description</label>
+                <textarea class="form-control" id="description" rows="3" required></textarea>
+            </div>
+            <div class="form-group">
+                <label for="startTime">Start Time</label>
+                <input type="datetime-local" class="form-control" id="startTime" required>
+            </div>
+            <div class="form-group">
+                <label for="endTime">End Time</label>
+                <input type="datetime-local" class="form-control" id="endTime" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Create Event</button>
+        </form>
+        <hr>
+        <h2 class="mt-5">Events List</h2>
+        <div id="eventsList"></div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
