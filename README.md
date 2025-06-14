@@ -1,4 +1,5 @@
-# Event Management System
+# Smart Event Coordinator
+
 
 The approach of this project is to create, manage, and track events in a user-friendly and efficient manner. The system focuses on automating event-related tasks like event creation, attendee management, and notifications, while ensuring real-time communication and updates. Users can create new events, specifying event details such as title, description, date, time, and location using event creation. The project allows attendees to accept/decline events from RSVP tracked in real time. Organizers can also send custom notifications or updates to attendees.
 
