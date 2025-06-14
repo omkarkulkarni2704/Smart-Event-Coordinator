@@ -1,32 +1,82 @@
-# Smart Event Coordinator
+# 📅 Smart Event Coordinator
 
+### **A web-based platform to efficiently create, manage, and track events with real-time RSVP and notifications.**
 
-The approach of this project is to create, manage, and track events in a user-friendly and efficient manner. The system focuses on automating event-related tasks like event creation, attendee management, and notifications, while ensuring real-time communication and updates. Users can create new events, specifying event details such as title, description, date, time, and location using event creation. The project allows attendees to accept/decline events from RSVP tracked in real time. Organizers can also send custom notifications or updates to attendees.
+**Smart Event Coordinator** helps organizers automate event workflows by managing event details, attendee RSVPs, and sending timely updates, ensuring smooth communication and enhanced event management.
 
-What problem I Solved?
-1. RSVP Tracking: Tracking attendee responses manually can be time-consuming and error-prone.
-Solution: Your system provides real-time RSVP tracking, making it easier to manage and gauge attendance.
+---               
 
-2. Notifications: Sending updates and notifications can be disorganized and lack personalization.
-Solution: The ability to send custom notifications allows organizers to communicate specific information effectively.
+## 🌟 Key Features
 
-3. Event Updates: Keeping attendees informed about changes or updates can be challenging without an automated system.
-Solution: Automated notifications and updates ensure that attendees receive timely and relevant information.
+### 🧑‍💼 For Organizers:
+* **Event Creation**: Create events with details like title, description, date, time, and location.
 
+* **Attendee Management**: Track RSVP responses in real-time (accept/decline).
 
-Tech Stack Used - 
+* **Custom Notifications**: Send personalized notifications and updates to attendees automatically.
 
-Backend:
-1. Java 
-2. Spring Boot
-3. Spring Data JPA
-4. Spring Schedular
+### 🧑‍🤝‍🧑 For Attendees:
+* **RSVP Interface**: Accept or decline event invitations easily.
 
-Frontend:
-1. HTML
-2. CSS
-3. Bootstrap
-4. JavaScript
+* **Receive Updates**: Get real-time notifications for event changes or announcements.
 
-Database:
-1. MySQL
+---
+
+## 🛠️ Technologies Used
+
+### 1. Backend:
+- **Java**: Business logic and core application development.
+- **Spring Boot**: Simplified RESTful API creation and application framework.
+- **Spring Data JPA**: Database ORM for managing event and user data.
+- **Spring Scheduler**: Scheduling automated notification tasks.
+
+### 2. Frontend:
+- **HTML, CSS, Bootstrap**: Responsive and user-friendly interface design.
+- **JavaScript**: Dynamic UI and client-side functionality.
+
+### 3. Database:
+- **MySQL**: Stores events, users, RSVP responses, and notifications data.
+
+---
+
+## 🚀 Setup and Run
+
+### 1. Database:
+- Install MySQL and create a database named smart_event_coordinator.
+- Import the provided database.sql file to set up tables and initial data.
+
+### 2. Application Configuration:
+- Update application.properties with your MySQL credentials.
+
+### 3. Running the Application:
+- Use your IDE or run the command: mvn spring-boot:run
+
+---
+
+## 📝 Current Status
+
+- Basic event creation and RSVP tracking implemented.
+- Notifications and scheduling under development.
+- UI improvements planned for better user experience.
+
+---
+
+## 📷 Screenshots (Coming Soon)
+
+- Screenshots will be added as development progresses.
+
+---
+
+## 🤝 Contributing
+We welcome contributions from the community! Here's how you can contribute:
+
+- Fork this repository.
+- Open a pull request with your changes.
+
+---
+
+## 💬 Contact
+* Developer: [Omkar Kulkarni](https://github.com/omkarkulkarni2704)
+* Repository: [Smart Event Coordinator](https://github.com/omkarkulkarni2704/Smart-Event-Coordinator/edit/master/README.md)
+
+---
