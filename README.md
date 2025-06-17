@@ -10,14 +10,11 @@
 
 ### 🧑‍💼 For Organizers:
 * **Event Creation**: Create events with details like title, description, date, time, and location.
-
 * **Attendee Management**: Track RSVP responses in real-time (accept/decline).
-
 * **Custom Notifications**: Send personalized notifications and updates to attendees automatically.
 
 ### 🧑‍🤝‍🧑 For Attendees:
 * **RSVP Interface**: Accept or decline event invitations easily.
-
 * **Receive Updates**: Get real-time notifications for event changes or announcements.
 
 ---
