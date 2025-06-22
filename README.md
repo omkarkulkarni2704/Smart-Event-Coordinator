@@ -2,7 +2,7 @@
 
 ### **A web-based platform to efficiently create, manage, and track events with real-time RSVP and notifications.**
 
-**Smart Event Coordinator** helps organizers automate event workflows by managing event details, attendee RSVPs, and sending timely updates, ensuring smooth communication and enhanced event management.
+**Smart Event Coordinator** helps organizers automate event workflows by managing event details, attendee RSVPs, and sending timely updates, ensuring smooth communication and enhanced event management.      
 
 ---                  
 
