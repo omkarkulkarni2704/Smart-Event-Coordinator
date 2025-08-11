@@ -5,7 +5,7 @@
 **Smart Event Coordinator** helps organizers automate event workflows by managing event details, attendee RSVPs, and sending timely updates, ensuring smooth communication and enhanced event management.      
 
 ---                  
-
+     
 ## 🌟 Key Features
 
 ### 🧑‍💼 For Organizers:
