@@ -1,25 +1,25 @@
 # 📅 Smart Event Coordinator     
 
-### **A web-based platform to efficiently create, manage, and track events with real-time RSVP and notifications.**   
-
+### **A web-based platform to efficiently create, manage, and track events with real-time RSVP and notifications.**    
+ 
 **Smart Event Coordinator** helps organizers automate event workflows by managing event details, attendee RSVPs, and sending timely updates, ensuring smooth communication and enhanced event management.      
-
+ 
 ---                      
      
 ## 🌟 Key Features
    
-### 🧑‍💼 For Organizers:
+### 🧑‍💼 For Organizers: 
 * **Event Creation**: Create events with details like title, description, date, time, and location.
-* **Attendee Management**: Track RSVP responses in real-time (accept/decline).
+* **Attendee Management**: Track RSVP responses in real-time (accept/decline). 
 * **Custom Notifications**: Send personalized notifications and updates to attendees automatically.
 
 ### 🧑‍🤝‍🧑 For Attendees:
-* **RSVP Interface**: Accept or decline event invitations easily.
+* **RSVP Interface**: Accept or decline event invitations easily. 
 * **Receive Updates**: Get real-time notifications for event changes or announcements.
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used 
 
 ### 1. Backend:
 - **Java**: Business logic and core application development.
