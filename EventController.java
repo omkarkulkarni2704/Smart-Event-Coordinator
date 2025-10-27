@@ -1,7 +1,7 @@
 @RestController
 @RequestMapping("/events")
 public class EventController {
-    @Autowired
+    @Autowired 
     private EventService eventService;
 
     @PostMapping
